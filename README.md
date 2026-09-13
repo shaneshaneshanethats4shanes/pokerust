@@ -60,7 +60,7 @@ It has been extensively playtested by myself and friends using both emulators an
 
 ## Instructions
 
-To build the ROM, apply (Pokemon Rust.ips)[https://github.com/shaneshaneshanethats4shanes/pokerust/releases/download/v1.0.0/Pokemon.Rust.ips] to a Pokémon Red ROM using a patcher such as (ROM Patcher JS)[https://www.marcrobledo.com/RomPatcher.js/]. This will create a patched ROM that you can play in any Game Boy emulator.
+To build the ROM, apply [Pokemon Rust.ips](https://github.com/shaneshaneshanethats4shanes/pokerust/releases/download/v1.0.0/Pokemon.Rust.ips) to a Pokémon Red ROM using a patcher such as [ROM Patcher JS](https://www.marcrobledo.com/RomPatcher.js/). This will create a patched ROM that you can play in any Game Boy emulator.
 
 ---
 
