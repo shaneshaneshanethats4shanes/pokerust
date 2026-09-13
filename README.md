@@ -2,6 +2,8 @@
 
 **Pokémon Rust** is a ROM hack of **Pokémon Red**, designed as a hard-mode challenge with roguelike elements.
 
+It has been extensively playtested by myself and friends using both emulators and actual hardware.
+
 ---
 
 ## Major Changes
@@ -30,7 +32,7 @@
 ## Other Changes
 
 - **Fly removed**  
-  The Fly HM has been removed. You must travel on foot.
+  The Fly HM isn't available until the end of the game (speak to Professor Oak).
 - **Major glitches patched**  
   The **Trainer-Fly glitch** and **MissingNo.** exploits are no longer possible.
 - **Trade evolution NPC**  
@@ -38,9 +40,9 @@
 - **Poké Flute reworked**  
   The Poké Flute can no longer be used during battle, but can still wake sleeping Pokémon in the overworld.
 - **Safari Zone reworked**  
-  **Bait** reduces the likelihood that a Pokémon will flee, while **rocks** increase its catch rate. This makes Safari Zone encounters less dependent on luck.
+  **Bait** reduces the likelihood that a Pokémon will flee, while **rocks** increase its catch rate. This makes Safari Zone encounters less dependent on luck (it's completely broken in the original game).
 - **Cable Club removed**  
-  The Cable Club has been removed for now because of concerns about it being exploitable as an additional save point.
+  The Cable Club isn't available until the end of the game (to avoid possible exploits).
 - **PC Boxes restricted**  
   All PC Boxes except **Box 1** have been removed for the same reason. Additional boxes may be added in the future.
 - **Route restrictions**  
@@ -1889,10 +1891,4 @@ _No level-up moves._
 
 ## Development
 
-Pokémon Rust is a **Pokémon Red ROM hack**.
-
-More information about the game's development, build process, patching process, and source code can be added here.
-
-## Credits
-
-Pokémon Rust is based on **Pokémon Red**.
+Pokémon Rust is based on the [pret Disassembly of Pokémon Red / Blue](https://github.com/pret/pokered) and is written in GBZ80 Assembly.
