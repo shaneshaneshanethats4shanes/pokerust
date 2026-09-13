@@ -31,9 +31,7 @@ It has been extensively playtested by myself and friends using both emulators an
 - **Gym Leader / Giovanni healing**  
   Defeating a Gym Leader or Giovanni fully heals your party.
 
-<img width="480" height="384" alt="Re-healing A" src="https://github.com/user-attachments/assets/c04c482c-9d49-4478-a52e-304706027ac6" />
-
-<img width="481" height="385" alt="Re-healing B" src="https://github.com/user-attachments/assets/defd20e9-9e89-4b6a-ac22-b87f453b796a" />
+<img width="481" height="420" alt="Re-healing" src="https://github.com/user-attachments/assets/4c55bd36-14ea-4095-aa8d-0ea711ebf12b" />
 
 
 
