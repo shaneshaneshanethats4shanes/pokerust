@@ -27,7 +27,7 @@ It has been extensively playtested by myself and friends using both emulators an
 - **Quicksave**  
   Select **Q-SAVE** from the Start menu to create a temporary save and quit the game. Loading the game deletes the quicksave. You must create another quicksave afterwards, otherwise the game will return you to your last permanent save on the next load.
 - **Blackouts**  
-  If you black out, the game restarts from your last save.
+  If you black out, the game restarts from your last permanent save.
 - **Gym Leader / Giovanni healing**  
   Defeating a Gym Leader or Giovanni fully heals your party.
 
