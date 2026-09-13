@@ -4,6 +4,8 @@
 
 It has been extensively playtested by myself and friends using both emulators and actual hardware.
 
+<img width="480" height="432" alt="Title screen" src="https://github.com/user-attachments/assets/f8555543-cae8-4434-855d-49b976e9b1ae" />
+
 ---
 
 ## Major Changes
@@ -28,6 +30,12 @@ It has been extensively playtested by myself and friends using both emulators an
   If you black out, the game restarts from your last save.
 - **Gym Leader / Giovanni healing**  
   Defeating a Gym Leader or Giovanni fully heals your party.
+
+<img width="480" height="384" alt="Re-healing A" src="https://github.com/user-attachments/assets/c04c482c-9d49-4478-a52e-304706027ac6" />
+
+<img width="481" height="385" alt="Re-healing B" src="https://github.com/user-attachments/assets/defd20e9-9e89-4b6a-ac22-b87f453b796a" />
+
+
 
 ## Other Changes
 
