@@ -17,7 +17,7 @@ It has been extensively playtested by myself and friends using both emulators an
 - **Improved AI**  
   AI settings for Trainers and Gym leaders are maxed out, so they tend to use more sensible moves.
 - **No grinding**  
-  Experience is only gained from trainer battles.
+  Experience is only gained from trainer battles (Note: Experience gained is not currently printed out after a trainer battle, even though it is gained. I am working on adding this now).
 - **Party-wide EXP**  
   Experience is shared equally among your entire party. Every Pokémon receives 100% of the experience, even if it is KO'd.
 - **Set battle mode**  
