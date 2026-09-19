@@ -14,6 +14,8 @@ It has been extensively playtested by myself and friends using both emulators an
   All Pokémon have had their level-up learnsets adjusted to make battles more challenging. See the [Pokédex](#pokédex) below.
 - **Reworked trainer teams**  
   Trainer and Gym Leader teams have been adjusted to provide a greater challenge.
+- **Improved AI**  
+  AI settings for Trainers and Gym leaders are maxed out, so they tend to use more sensible moves.
 - **No grinding**  
   Experience is only gained from trainer battles.
 - **Party-wide EXP**  
