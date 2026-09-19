@@ -15,7 +15,7 @@ It has been extensively playtested by myself and friends using both emulators an
 - **Reworked trainer teams**  
   Trainer and Gym Leader teams have been adjusted to provide a greater challenge.
 - **Improved AI**  
-  AI settings for Trainers and Gym leaders are maxed out, so they tend to use more sensible moves.
+  AI settings for Trainers and Gym Leaders are maxed out, so they tend to use more sensible moves.
 - **No grinding**  
   Experience is only gained from trainer battles (Note: Experience gained is not currently printed out after a trainer battle, even though it is gained. I am working on adding this now).
 - **Party-wide EXP**  
