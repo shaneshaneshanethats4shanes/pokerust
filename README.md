@@ -33,6 +33,11 @@ It has been extensively playtested by myself and friends using both emulators an
 
 <img width="479" height="432" alt="image" src="https://github.com/user-attachments/assets/c1827d5d-e952-41a2-9efb-38f630c9f888" />
 
+<img width="481" height="431" alt="image" src="https://github.com/user-attachments/assets/0e683338-e189-4102-86bb-7d4e36cd57e1" />
+
+<img width="480" height="432" alt="image" src="https://github.com/user-attachments/assets/5752955f-cccb-4049-a756-1407ee1c4190" />
+
+
 
 
 ## Other Changes
